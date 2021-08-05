@@ -7,8 +7,10 @@
       management, interpreting and communicating data analytics findings.
       Confidence in transforming complex data into actionable and clear insights. Fluency in
       computer programming languages and a solid understanding of databases.
-      - Completed 11 Platzi Courses (Python AND MySQL)
-      - Completed 17 Kaggle Courses (Python, MySQL, Data Gathering, Entry, Preparation, Cleaning, Exploration, Analysis AND Visualization
+      
+- Completed 11 Platzi Courses (Python AND MySQL)
+      
+- Completed 17 Kaggle Courses (Python, MySQL, Data Gathering, Entry, Preparation, Cleaning, Exploration, Analysis AND Visualization
   
 - 🌱 I’m currently learning Data Science
 
