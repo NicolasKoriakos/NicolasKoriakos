@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data Analysis/Science
 
-:	🎓 - Completed extensive six month job-ready Google Career Certificate training.
+-	🎓 - Completed extensive six month job-ready Google Career Certificate training.
       Demonstrated hands-on experience with data cleaning, data visualization, project
       management, interpreting and communicating data analytics findings.
       Confidence in transforming complex data into actionable and clear insights. Fluency in
