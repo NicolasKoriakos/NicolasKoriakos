@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicolasKoriakos
+- 👋 Hi, I’m Nicolas Koriakos
 
 - 👀 I’m interested in Data Analysis/Science
 
