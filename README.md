@@ -10,7 +10,7 @@
       
 - Completed 11 Platzi Courses (Python AND MySQL)
       
-- Completed 17 Kaggle Courses (Python, MySQL, Data Gathering, Entry, Preparation, Cleaning, Exploration, Analysis AND Visualization
+- Completed 17 Kaggle Courses (Python, MySQL, Data Gathering, Entry, Preparation, Cleaning, Exploration, Analysis AND Visualization)
   
 - 🌱 I’m currently learning Data Science
 
