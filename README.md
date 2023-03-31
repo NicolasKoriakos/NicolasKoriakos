@@ -16,4 +16,4 @@
 
 - 💞️ I’m looking to work as a Data Analyst or Data Scientist
 
-- 📫 You can reach me via linkedin, here is my profile: https://www.linkedin.com/in/nicolas-alejandro-koriakos-rodriguez-3825421bb/
+- 📫 You can reach me via linkedin, here is my profile: https://www.linkedin.com/in/nicolaskoriakos/
